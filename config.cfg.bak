@@ -1,0 +1,13 @@
+[PROJECT]
+log_file=execution.log
+log_file_size=1048576
+slave_port=9580
+
+[API_IDP]
+base_url_idp=https://abc.com
+user_idp= mytest
+realm= SecureAuth8
+api_version=api/v1
+app_id= 54833aac5e0a4165b50e67a10454f9b5
+app_key= ab43974eb4940eeda981e265ca4bd46a55f4b316c11ae251d3f173674dbd6994
+
